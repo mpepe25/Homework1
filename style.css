@@ -1,0 +1,63 @@
+.center{
+    margin: auto;
+    width: 50%;
+  padding: 10px;
+}
+
+body{
+    background: grey;
+    
+}
+
+header{
+    width: 900px;
+    height: 50px;
+    background: white;
+    margin: 20px;
+    text-align: center;
+}
+
+nav{
+    width: 900px;
+    height: 50px;
+    background: white;
+    margin: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+section {
+    margin: 15px;
+    background: white;
+    width: 320px;
+    text-align: center;
+}
+
+article {
+    padding: 20px;
+    margin:10px;
+    width: 380px;
+    background: gray;
+    text-align: center;
+    border: solid;
+}
+
+aside {
+        padding: 20px;
+        margin: 10px;
+        border: 30px;
+        width: 380px;
+        float: right;
+        background: white;
+        text-align: center;
+}
+footer{
+    Margin: 15px;
+    Border: 30px;
+    background: white;
+    text-align: center;
+
+}
+
+.situation{
+    display: inline;
+}
